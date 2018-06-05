@@ -5,13 +5,13 @@ The Change Request Management is a well-designed and well-managed Web Service ba
 
 Technologies used:
 
-HTML|	                      Visual Studio IDE|	                  JQuery|
-CSS|	                        ASP.NET RESTful Web API|	            React|
-JavaScript|	                JSON|	                              LINQ|
-C# Programming Language|	    Bootstrap|	                          Webpack|
-Oracle Database|	            Sass|	                              Babel|
-ASP.NET MVC|	                Google Chrome Developer Tools|	      List.js|
-Slack|	                      Visual Studio Team Services|	
+HTML |	                      Visual Studio IDE |	                  JQuery |
+CSS |	                        ASP.NET RESTful Web API |	            React |
+JavaScript |	                JSON |	                              LINQ |
+C# Programming Language |	    Bootstrap |	                          Webpack |
+Oracle Database |	            Sass |	                              Babel |
+ASP.NET MVC |	                Google Chrome Developer Tools |	      List.js |
+Slack |	                      Visual Studio Team Services |	
 
 Team:
 
