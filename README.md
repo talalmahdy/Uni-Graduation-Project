@@ -13,4 +13,18 @@ Oracle Database	            Sass	                              Babel
 ASP.NET MVC	                Google Chrome Developer Tools	      List.js
 Slack	                      Visual Studio Team Services	
 
+Team:
+
+Talal Mahdy
+
+Mohamed Balto: https://github.com/BaltuNoblesse
+
+Adham Moshasha: https://github.com/adhamoshasha
+
+Abduljawad Elsheredi: https://github.com/jawadshred
+
+Supervisor:
+
+Asst. Prof. Dr. Adnan Acan
+
 Project Completed: June 2, 2018
