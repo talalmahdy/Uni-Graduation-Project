@@ -1,0 +1,18 @@
+Group 1:
+Talal Mahdy – 147139
+Mohamed Balto - 147697
+Adham Moshasha - 148387	     
+Abdoulgwad Elsheredi -147597
+
+
+Installation Instruction:
+1.	Install Oracle Database if it is not already installed (Included in the CD).
+2.	Install Oracle SQLDeveloper if it is not already installed (Included in the CD).
+3.	Install LINQConnect if it is not already installed (Included in the CD).
+4.	Open SQLDeveloper.exe, create a new Database connection with 
+username: jawad 
+password: 123456
+5.	Open the The_DB.sql file, copy all its contents (CTRL+A) and paste it in the SQLDeveloper worksheet textfield. Click Run Script (F5).
+6.	The database is now ready and you can now import the project using Visual Studio and run it.
+7.	The project is published on the CD with a file called FRD SYSTEM_Published.rar.
+8.	The original project files of Visual Studio are also included.
